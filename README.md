@@ -19,13 +19,13 @@ http://o-botics.org/
 https://github.com/o-botics
 * **Author's GitHub:** https://github.com/typograph
 * **Original PySimIAm project on GitHub**
-** Week1: https://github.com/typograph/pysimiam/tree/coursera-week1-2014
-** Week2: https://github.com/typograph/pysimiam/tree/coursera-week2-2014
-** Week3: https://github.com/typograph/pysimiam/tree/coursera-week3-2014
-** Week4: https://github.com/typograph/pysimiam/tree/coursera-week4-2014
-** Week5: https://github.com/typograph/pysimiam/tree/coursera-week5-2014
-** Week6: https://github.com/typograph/pysimiam/tree/coursera-week6-2014
-** Week7: https://github.com/typograph/pysimiam/tree/coursera-week7-2014
+  * Week1: https://github.com/typograph/pysimiam/tree/coursera-week1-2014
+  * Week2: https://github.com/typograph/pysimiam/tree/coursera-week2-2014
+  * Week3: https://github.com/typograph/pysimiam/tree/coursera-week3-2014
+  * Week4: https://github.com/typograph/pysimiam/tree/coursera-week4-2014
+  * Week5: https://github.com/typograph/pysimiam/tree/coursera-week5-2014
+  * Week6: https://github.com/typograph/pysimiam/tree/coursera-week6-2014
+  * Week7: https://github.com/typograph/pysimiam/tree/coursera-week7-2014
 
 ## Courses
 
